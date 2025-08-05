@@ -46,6 +46,6 @@ Using the Superstore dataset, we created visual reports that uncover business in
 
 ---
 
-✅ Submitted as part of Internship Task 2  
-🗓️ Date: *[Add your date here]*  
-📧 Author: *[Your Name or Email here]*
+✅ Submitted as part of Internship, Task 2  
+🗓️ Date: 05-08-2025  
+📧 Author: KESAV B M
